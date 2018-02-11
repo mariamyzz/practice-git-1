@@ -1,3 +1,4 @@
 Some test line which is going to be the first line in the file
 Paris is the capital of France
 This is a change that is added to staging area
+This is another change that is not added to staging area
